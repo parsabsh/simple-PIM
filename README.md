@@ -3,6 +3,6 @@ Project of "Modern VLSI Design" course: A simple Processing in Memory (PIM) syst
 
 General Architecture:
 
-![Architecture.png](Architecture.png)
+![Architecture.png](figures/Architecture.png)
 
 Full documentation is available [here](Document.pdf).
